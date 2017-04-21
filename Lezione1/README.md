@@ -8,6 +8,7 @@ Argomenti:
 
 ---
 
+
 Link e Riferimenti:
 
 [W3C - Specifiche HTML](https://www.w3.org/WebPlatform/WG/PubStatus#HTML_specifications)
@@ -18,11 +19,13 @@ Link e Riferimenti:
 
 [AgID - Accessibilità dei siti web](http://www.agid.gov.it/agenda-digitale/pubblica-amministrazione/accessibilita)
 
+
 Tutorials:
 
 [HTML Tutorial](http://it.html.net/tutorials/html/)
 
 [CSS Tutorial](http://it.html.net/tutorials/css/)
+
 
 Software - Text/Code Editors:
 
