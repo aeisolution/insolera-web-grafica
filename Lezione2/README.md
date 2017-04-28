@@ -11,7 +11,7 @@ Argomenti:
 
 ## Link e Riferimenti
 
-Font:
+Fonts:
 
 [Google Fonts ](https://fonts.google.com/)
 
@@ -22,11 +22,13 @@ Font:
 [Glyphicons ](http://glyphicons.com/)
 
 
+
 Palette di Colori:
 
-[Adobe Color CC ]https://color.adobe.com/it/create/color-wheel/
+[Adobe Color CC ](https://color.adobe.com/it/create/color-wheel/)
 
 [Coolors ](https://coolors.co)
+
 
 
 Immagini:
@@ -38,6 +40,7 @@ Immagini:
 [Pexels ](https://www.pexels.com/)
 
 
+
 Layout:
 
 [MDN - Box Model ](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
@@ -45,6 +48,7 @@ Layout:
 [MDN - Flexible Box Layout ](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
 
 [MDN - Grid Layout ](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+
 
 
 Framework:
@@ -56,6 +60,7 @@ Framework:
 [Material Design ](https://material.io/)
 
 [HTML5 Boilerplate ](https://html5boilerplate.com/)
+
 
 
 Web Templates:
