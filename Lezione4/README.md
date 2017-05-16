@@ -30,6 +30,6 @@ Argomenti:
 
 ### Gruppo: Vinci - Zombra - Attardo
 
-[anteprima ](https://cdn.rawgit.com/aeisolution/insolera-web-grafica/85f89274/Lezione4/Elaborati/Vinci_Zombra_Attardo/index.html)
+[anteprima ](https://cdn.rawgit.com/aeisolution/insolera-web-grafica/a6d3d0c7/Lezione4/Elaborati/Vinci_Zombra_Attardo/index.html)
 
 [sorgente ](Elaborati/Vinci_Zombra_Attardo)
