@@ -33,3 +33,10 @@ Argomenti:
 [anteprima ](https://cdn.rawgit.com/aeisolution/insolera-web-grafica/a6d3d0c7/Lezione4/Elaborati/Vinci_Zombra_Attardo/index.html)
 
 [sorgente ](Elaborati/Vinci_Zombra_Attardo)
+
+
+### Vincenza La Pila
+
+[anteprima ](#)
+
+[sorgente ](Elaborati/LaPila_V)
