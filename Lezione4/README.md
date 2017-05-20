@@ -23,7 +23,7 @@ Argomenti:
 
 ### Michael Greco
 
-[anteprima ](https://cdn.rawgit.com/aeisolution/insolera-web-grafica/cca1b77d/Lezione4/Elaborati/Conforto_A/index.html)
+[anteprima ](https://cdn.rawgit.com/aeisolution/insolera-web-grafica/8f871df0/Lezione4/Elaborati/Greco_M/index.html)
 
 [sorgente ](Elaborati/Greco_M)
 
