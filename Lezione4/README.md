@@ -16,27 +16,27 @@ Argomenti:
 
 ### Andrew Conforto
 
-[anteprima ](https://cdn.rawgit.com/aeisolution/insolera-web-grafica/85f89274/Lezione4/Elaborati/Conforto_A/index.html)
+[anteprima ](https://cdn.rawgit.com/aeisolution/insolera-web-grafica/cca1b77d/Lezione4/Elaborati/Conforto_A/index.html)
 
 [sorgente ](Elaborati/Conforto_A)
 
 
 ### Michael Greco
 
-[anteprima ](https://cdn.rawgit.com/aeisolution/insolera-web-grafica/85f89274/Lezione4/Elaborati/Greco_M/index.html)
+[anteprima ](https://cdn.rawgit.com/aeisolution/insolera-web-grafica/cca1b77d/Lezione4/Elaborati/Conforto_A/index.html)
 
 [sorgente ](Elaborati/Greco_M)
 
 
 ### Gruppo: Vinci - Zombra - Attardo
 
-[anteprima ](https://cdn.rawgit.com/aeisolution/insolera-web-grafica/a6d3d0c7/Lezione4/Elaborati/Vinci_Zombra_Attardo/index.html)
+[anteprima ](https://cdn.rawgit.com/aeisolution/insolera-web-grafica/cca1b77d/Lezione4/Elaborati/Vinci_Zombra_Attardo/index.html)
 
 [sorgente ](Elaborati/Vinci_Zombra_Attardo)
 
 
 ### Vincenza La Pila
 
-[anteprima ](#)
+[anteprima ](https://cdn.rawgit.com/aeisolution/insolera-web-grafica/cca1b77d/Lezione4/Elaborati/LaPila_V/index.html)
 
 [sorgente ](Elaborati/LaPila_V)
