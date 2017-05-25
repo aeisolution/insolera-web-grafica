@@ -9,6 +9,8 @@ Argomenti:
   - Creazione Post e Pagine
 - Siti Web elaborati dagli studenti
 
+Link del materiale utilizzato per il corso caricato su Padlet
+### [WordPress](https://padlet.com/Andreasr73/kr2z4443wfl8)
 
 ---
 
