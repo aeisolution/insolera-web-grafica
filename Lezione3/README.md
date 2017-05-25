@@ -10,10 +10,10 @@ Argomenti introduttivi:
 - Funzionamento del CMS 
 - Differenze e campi di applicazioni di:
 
-      Siti
-      Blog
-      CMS
-      E-commerce
+    - Siti
+    - Blog
+    - CMS
+    - E-commerce
       
 - Vantaggi nell'utilizzo di Wordpress come piattaforma per i blog
 - Vari campi di applicazione di Wordpres
