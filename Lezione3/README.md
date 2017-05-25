@@ -1,21 +1,25 @@
 # Lezione N.3 - WordPress 
 
 ---
-Argomenti:
+Argomenti introduttivi:
 
 - Processo di produzione di un sito Web
   : Infografica
-  Cenni su logica client-server e utilizzo Database
+- Cenni su logica client-server e utilizzo Database
   
 - Funzionamento del CMS 
-- Differenze ed applicazioni di 
+- Differenze e campi di applicazioni di:
+
       Siti
       Blog
       CMS
       E-commerce
+      
+- Vantaggi nell'utilizzo di Wordpress come piattaforma per i blog
+- Vari campi di applicazione di Wordpres
 
-- WordPress e differeze tra l'utilizzo di un proprio server per l'installazione e il server wordpress.com
+- WordPress e differenze tra l'utilizzo di un proprio server per l'installazione e il server wordpress.com
 
-# Esempi pratici su casi reali
+# Esempi pratici di casi reali
 
   
